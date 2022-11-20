@@ -22,7 +22,7 @@
     {
         "id": "03",
         "name": "Web Development Pro",
-        "taitle": "CSS Matic Review: Simple Tool for Designers",
+        "taitle": "Pro Web Development FUll Course",
         "img": " https://freecoursesite.com/storage/2019/01/245242.jpg",
         "description": "HTML is easy to learn - You will enjoy it!",
         "student": "103",
@@ -32,7 +32,7 @@
             "badge": "Excellent"
         },
         "icon": "",
-        "detail": "This section is directly below the CSS and as you can see, it contains additional controls. I’ve chosen to turn on Comments and IE9 support for additional information in the code. Note at the far left is the popup for Color Formats. This gives you six different choices for how color is used within the CSS. Note that two of these: hsla and rgba make use of an alpha channel. This allows you to control transparency within the gradient, which can be really useful with your layouts.",
+        "detail": " The Complete 2022 Web Development Course Build 15 Projects The only course you need to become a full-stack web developer. Covers HTML5, CSS3, JS, ES6, Node, APIs, Mobile & more! ",
         "author": {
             "name": "Tim Berners-lee",
             "published_date": "2022-08-24 17:27:34",
@@ -42,8 +42,8 @@
     {
         "id": "02",
         "name": "Computer CSS3 Programming",
-        "taitle": "Converting a JavaScript Object to a String",
-        "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/introduction-to-javascript.png",
+        "taitle": "CS5s Web Programming with Python and JavaScript",
+        "img": "https://www.freestudy.com/wp-content/uploads/2019/06/best-programming-courses-1-800x500.jpg",
         "description": "",
         "student": "102",
         "category_id": "02",
@@ -52,7 +52,7 @@
             "badge": "Excellent"
         },
         "icon": "",
-        "detail": "Sometimes it becomes necessary to convert an object into a string in order to view or store it. For the purpose of debugging, a simple console.log() will suffice, as just about any modern browser’s Dev Tools will provide a pretty printed version of an object. Meanwhile, relying on implicit conversion when writing an object to any other location will only result in the utterly useless “[object Object]” string. Far better results can be achieved using JavaScript’s built-in JSON.stringify() method or by writing your own conversion function. Each of these will produce differing results, so it pays to carefully consider each option before deciding which approach best suits your requirements. With that in mind, we are going to try our hand at a few strategies here, including using the toSting() method, custom conversion methods, as well as the aforementioned JSON.stringify() in today’s web development tutorial.",
+        "detail": "The Harvard University is pleased to announce this free online course named as “CS50s Web Programming with Python and JavaScript”. In this course, you will learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku.  Applicants must have CS50 or prior programming experience in any language for joining this course.",
         "author": {
             "name": "Tim Berners-lee",
             "published_date": "2022-08-24 17:27:34",
@@ -63,8 +63,8 @@
         "id": "04",
         "name": "WordPress Development",
         "taitle": "Github",
-        "img": " https://img2.storyblok.com/672x0/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png",
-        "description": "HTML is easy to learn - You will enjoy it!",
+        "img": " https://cdn.wisepops.com/shared/images/wisepops/c.59272/cc65b63f6b0b6cf7f8fc248d7b0cee65.png",
+        "description": "WordPress Training Courses For Beginners!",
         "student": "105",
         "category_id": "04",
         "rating": {
@@ -83,8 +83,8 @@
         "id": "05",
         "name": "Logo Design",
         "taitle": "Thinking in React",
-        "img": "https://mechomotive.com/wp-content/uploads/2021/08/react.jpg ",
-        "description": "HTML is easy to learn - You will enjoy it!",
+        "img": "https://www.logodesignteam.com/blog/wp-content/uploads/2017/08/6-of-the-best-logo-design-courses-found-on-udemy.png",
+        "description": "Best Logo Design Courses Found on Udemy!",
         "student": "506",
         "category_id": "05",
         "rating": {
@@ -102,8 +102,8 @@
     {
             "id": "06",
             "name": "Facebook Markting",
-            "taitle": "Node.js is designed to build scalable network applications.",
-            "img": "https://miro.medium.com/max/750/0*3P4WhyFtuwCV5nTa.jpg",
+            "taitle": "THE BEST FACEBOOK MARKETING COURSES TO BLOW YOUR MIND",
+            "img": "https://laptopempires.com/wp-content/uploads/2020/02/Best-Facebook-Marketing-Course.jpg",
             "description": "HTML is easy to learn - You will enjoy it!",
             "student": {
                 "number": 500
